@@ -1,11 +1,20 @@
-#LISTA DE TAREAS
+# LISTA DE TAREAS
 
-##Se ejecuta el archivo:
+## Instalación
 
-- py task_cli.py
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/kyoxd1/task-tracker-cli.git
+   cd task-tracker-cli
 
-para obtener los comandos
+2. Se ejecuta el archivo:
 
-y para añadir alguna tarea o otro comando sigue la regla
+    ```bash
+    - py task_cli.py
 
-- py task_cli.py [comando] ['argumentos']
+# para obtener los comandos
+
+# y para añadir alguna tarea o otro comando sigue la regla
+
+    ```bash
+    - py task_cli.py [comando] ['argumentos']
