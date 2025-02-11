@@ -1,5 +1,5 @@
 #######################################################
-# LISTA DE TAREAS
+# LISTA DE TAREAS :smile:
 #######################################################
 
 ## Instalación:
@@ -28,3 +28,12 @@
 
 ### Ejemplo en C# (asegurate de estar dentro del programa taskcs)
     - dotnet run -- add "prueba desde c#"
+
+## Lista de comnados
+    - add <descripción>
+    - update <id> <desc>
+    - delete <id>	
+    - mark-in-progress <id>
+    - mark-done <id>
+    - list
+    - list <estado>
