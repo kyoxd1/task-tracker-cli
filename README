@@ -1,0 +1,11 @@
+#LISTA DE TAREAS
+
+##Se ejecuta el archivo:
+
+- py task_cli.py
+
+para obtener los comandos
+
+y para añadir alguna tarea o otro comando sigue la regla
+
+- py task_cli.py [comando] ['argumentos']
