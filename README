@@ -1,20 +1,30 @@
+#######################################################
 # LISTA DE TAREAS
+#######################################################
 
-## Instalación
+## Instalación:
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/kyoxd1/task-tracker-cli.git
-   cd task-tracker-cli
+### 1. Clona el repositorio:
 
-2. Se ejecuta el archivo:
+   - git clone https://github.com/kyoxd1/task-tracker-cli.git
+   - cd task-tracker-cli
 
-    ```bash
+### 2. Se ejecuta el archivo en python:
+
     - py task_cli.py
 
-# para obtener los comandos
+## para obtener los comandos
 
-# y para añadir alguna tarea o otro comando sigue la regla
-
-    ```bash
+## y para añadir alguna tarea o otro comando sigue la regla
     - py task_cli.py [comando] ['argumentos']
+
+### Ejemplo en python:
+    - py task_cli.py add "prueba desde python"
+
+## Ejecutar el archivo en C#:
+    - dotnet build taskcs
+    - cd taskcs
+    - dotnet run -- [comando] ["argumentos"]
+
+### Ejemplo en C# (asegurate de estar dentro del programa taskcs)
+    - dotnet run -- add "prueba desde c#"

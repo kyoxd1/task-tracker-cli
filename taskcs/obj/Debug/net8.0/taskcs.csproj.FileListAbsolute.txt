@@ -1,0 +1,15 @@
+D:\Backend\task-tracker-cli\taskcs\obj\Debug\net8.0\taskcs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\task-tracker-cli\taskcs\obj\Debug\net8.0\taskcs.AssemblyInfoInputs.cache
+D:\Backend\task-tracker-cli\taskcs\obj\Debug\net8.0\taskcs.AssemblyInfo.cs
+D:\Backend\task-tracker-cli\taskcs\obj\Debug\net8.0\taskcs.csproj.CoreCompileInputs.cache
+D:\Backend\task-tracker-cli\taskcs\obj\Debug\net8.0\taskcs.sourcelink.json
+D:\Backend\task-tracker-cli\taskcs\bin\Debug\net8.0\taskcs.exe
+D:\Backend\task-tracker-cli\taskcs\bin\Debug\net8.0\taskcs.deps.json
+D:\Backend\task-tracker-cli\taskcs\bin\Debug\net8.0\taskcs.runtimeconfig.json
+D:\Backend\task-tracker-cli\taskcs\bin\Debug\net8.0\taskcs.dll
+D:\Backend\task-tracker-cli\taskcs\bin\Debug\net8.0\taskcs.pdb
+D:\Backend\task-tracker-cli\taskcs\obj\Debug\net8.0\taskcs.dll
+D:\Backend\task-tracker-cli\taskcs\obj\Debug\net8.0\refint\taskcs.dll
+D:\Backend\task-tracker-cli\taskcs\obj\Debug\net8.0\taskcs.pdb
+D:\Backend\task-tracker-cli\taskcs\obj\Debug\net8.0\taskcs.genruntimeconfig.cache
+D:\Backend\task-tracker-cli\taskcs\obj\Debug\net8.0\ref\taskcs.dll

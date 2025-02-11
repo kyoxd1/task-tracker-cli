@@ -104,7 +104,8 @@ def main():
         return
 
     command = sys.argv[1]
-    tasks, existing_tasks = load_tasks()
+    existing_tasks = load_tasks()
+    tasks = load_tasks()
 
     if command == 'add':
         if len(sys.argv) < 3:

@@ -1,9 +1,23 @@
 [
-    {
-        "id": 1,
-        "description": "Prueba del proyecto",
-        "status": "todo",
-        "createdAt": "2025-02-10T19:32:51.103052",
-        "updatedAt": "2025-02-10T19:32:51.103052"
-    }
+  {
+    "id": 1,
+    "description": "inicio de proyecto py y corregido desde csharp",
+    "status": "todo",
+    "createdAt": "2025-02-11T14:10:33.337056",
+    "uptadedAt": "2025-02-11T14:17:20.9345346-04:00"
+  },
+  {
+    "id": 2,
+    "description": "archivos py y tambien en csharp",
+    "status": "todo",
+    "createdAt": "2025-02-11T14:10:41.540813",
+    "uptadedAt": "2025-02-11T14:17:43.1367193-04:00"
+  },
+  {
+    "id": 3,
+    "description": "creacion desde csharp",
+    "status": "todo",
+    "createdAt": "2025-02-11T14:11:48.4085977-04:00",
+    "uptadedAt": "2025-02-11T14:11:48.4154937-04:00"
+  }
 ]
